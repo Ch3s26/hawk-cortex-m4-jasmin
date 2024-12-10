@@ -1,5 +1,5 @@
-JASMIN=~/jasmin/compiler/jasminc
-JFLAGS=-arch arm-m4 -lazy-regalloc
+JASMIN=~/jasmin2/jasmin/compiler/jasminc
+JFLAGS=-arch arm-m4
 
 all: arithmetic.s
 
